@@ -1,0 +1,45 @@
+.outer{
+    width: 900px;
+    height: 100%;
+    margin: 0px auto;
+    /* border: solid black 1px; */
+}
+.outer h1{
+    text-align: center;
+}
+.detail{
+    text-align: center;
+}
+.detail a{
+    color: inherit;
+    text-decoration: none;
+}
+.form{
+    margin-top: -15px;
+    margin-left: 8px;
+    margin-right: 6px;
+}
+#branch{
+    margin-top: 0px;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+hr{
+    margin-top: 5px;
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:medium;
+}
+.university-item{
+    display: flex;
+    justify-content: space-between;
+}
+.skill{
+    margin-right: 25px;
+}
+h3{
+    margin-bottom: -13px;
+}
